@@ -1,10 +1,10 @@
 # antibox
 
-[b]Current ver 1.0.0 (03/02/2018)[/b]
+Current ver 1.0.0 (03/02/2018)
 
 
 
-[b]Based on on the VirtualBox OSE 5.2.2[/b]
+Based on on the VirtualBox OSE 5.2.2
 
 
 
