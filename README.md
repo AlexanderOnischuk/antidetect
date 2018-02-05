@@ -1,4 +1,4 @@
-# antibox
+# Antidetect 2018 Pro OpenSource by Vektor T13
 
 Current ver 1.0.0 (03/02/2018)
 *********************************************************
